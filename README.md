@@ -1,2 +1,2 @@
 # SmartRockets
-This is a genetic algorithm that finds the a given target.
+This is a genetic algorithm that tries to find the shortest path to a target.
